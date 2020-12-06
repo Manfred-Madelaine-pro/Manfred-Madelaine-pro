@@ -1,3 +1,3 @@
-![looping snake](img/banner.png)
+![banner](img/banner2.png)
 
 ### Hi there 👋 I'm Manfred Madelaine
