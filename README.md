@@ -1,3 +1,4 @@
-![banner](img/banner2.png)
+![banner](img/banner.png)
 
-### Hi there 👋 I'm Manfred Madelaine
+### Hi there 👋 I'm Manfred Madelaine :alembic: :zap:
+
